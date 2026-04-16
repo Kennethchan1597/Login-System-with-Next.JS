@@ -11,6 +11,15 @@
     - Automatically creates or links user accounts on first login
     - Generates JWT tokens after successful OAuth validation
 
+- 💻 **Frontend built with Next.js**
+  - Developed using **Next.js (App Router)** with modern React architecture
+  - Implements responsive UI with a **glassmorphism design system**
+  - Handles **authentication flows (login / signup / OAuth UI)**
+  - Integrates seamlessly with backend APIs via **fetch (RESTful API calls)**
+  - Supports **Google / Apple social login UI interactions**
+  - Uses **client-side state management (useState)** for form handling and validation
+  - Designed with a clear separation of concerns (**AuthLayout, LoginForm, SignupForm**)
+
 ## Architecture Diagram
 
 <p align="center">
